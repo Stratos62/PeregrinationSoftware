@@ -14,3 +14,5 @@
 hs_err_pid*
 /PeregrinationSoftware/nbproject/private/
 /bin/
+*.netbeans_automatic_build
+PeregrinationSoftware/build/classes/.netbeans_update_resources
